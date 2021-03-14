@@ -21,7 +21,7 @@ Requisitos não-funcionais:
 
 ### Tutorial de utilização
 O sistema é separado em dois programas, um para o cadastro das informações e outro para votação.
-Para abrir o programa de cadastro das informações tera que inserir os arquivos C em uma pasta e compilar o arquivo chamado "main.c".
+Para abrir o programa de cadastro das informações, só basta inserir os arquivos C em uma pasta e compilar o arquivo chamado "main.c".
 Os arquivos para o cadastro segue-se abaixo:
 1. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/main.c">main.c</a>
 2. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/candidatos_cadastro.c">candidatos_cadastro.c</a>
@@ -35,6 +35,14 @@ Os arquivos para o cadastro segue-se abaixo:
 10. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/secao_cadastro.c">secao_cadastro.c</a>
 11. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/zona_alterar.c">zona_alterar.c</a>
 12. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/zona_cadastro.c">zona_cadastro.c</a>
+
+Para abrir o programa de votação, só basta inserir os arquivos em C em uma pasta e compilar o arquivo chamado "main.c".
+Os arquivos para a votação segue-se abaixo:
+1. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Votacao_codigo/main.c">main.c</a>
+2. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Votacao_codigo/resultado.c">resultado.c</a>
+3. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Votacao_codigo/votacao.c">votacao.c</a>
+
+
 
 ### Primeira Parte:
 1 - Ao iniciar o programa do cadastro, irá aparecer uma janela com as seguintes opções:
