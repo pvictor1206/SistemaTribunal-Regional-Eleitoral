@@ -1,6 +1,6 @@
 # SistemaTribunal-Regional-Eleitoral
 
-O Tribunal Regional Eleitoral (TRE) é o órgão judiciário encarregado do gerenciamento de eleições em âmbito estadual. O siguinte sistema é separado em duas partes.
+O Tribunal Regional Eleitoral (TRE) é o órgão judiciário encarregado do gerenciamento de eleições em âmbito estadual. O siguinte sistema é separado em duas partes, um para cadastro e outro para votação.
 
 Um sistema em linguagem C para controlar/realizar uma eleição. Com o intuito de facilitar o processamento da apuração eleitoral da eleição municipal a ser realizada, o TRE (Tribunal Regional Eleitoral) resolveu informatizar o processo para eleição do prefeito. Sabe-se que cada município é dividido em várias zonas eleitorais que, por sua vez, são divididas em várias seções nas quais os eleitores estão vinculados. Cada candidato deve estar vinculado a um único partido político. Vale ressaltar que o voto é secreto e, assim, não pode ser vinculado ao eleitor.
 
