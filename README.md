@@ -22,3 +22,9 @@ Requisitos não-funcionais:
 #### Primeira Parte:
 Ao iniciar o programa do cadastro, irá aparecer uma janela com as seguintes opções:
 <img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img01.png">
+
+Se inserir o número 1 seguindo as informações do menu, irá aparecer as opções de cadastro:
+<img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img02.png">
+
+Logo após, aparece o número de municípios que restam para realizar o cadastro em cada Estado:
+<img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img03.png">
