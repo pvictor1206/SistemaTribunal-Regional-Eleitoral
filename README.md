@@ -21,4 +21,6 @@ Requisitos não-funcionais:
 
 #### Primeira Parte:
 Ao iniciar o programa do cadastro, irá aparecer uma janela com as referidas opções:
+
+
 <img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img01.png">
