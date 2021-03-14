@@ -19,12 +19,20 @@ Requisitos não-funcionais:
 - realizar armazenamento persistente em arquivos binários
 - ter dois programas em C: um para os cadastros de município, zonas, seções, eleitores e eleição; e um outro para realizar votação e mostrar resultado.
 
-#### Primeira Parte:
-Ao iniciar o programa do cadastro, irá aparecer uma janela com as seguintes opções:
+### Primeira Parte:
+1 - Ao iniciar o programa do cadastro, irá aparecer uma janela com as seguintes opções:
 <img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img01.png">
 
-Se inserir o número 1 seguindo as informações do menu, irá aparecer as opções de cadastro:
+2 - Se inserir o número 1 seguindo as informações do menu, irá aparecer as opções de cadastro:
 <img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img02.png">
 
-Logo após, aparece o número de municípios que restam para realizar o cadastro em cada Estado:
+3 - Logo após, aparece o número de municípios que restam para realizar o cadastro em cada Estado:
 <img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img03.png">
+
+4 - Informe as informações pedida pelo sistema:
+<img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img04.png">
+
+#### Basta fazer esses passos tem todas as opções:
+
+### Segunda Parte:
+Na próxima etapa do sistema TRE, 
