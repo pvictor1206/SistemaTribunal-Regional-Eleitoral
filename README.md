@@ -20,4 +20,5 @@ Requisitos não-funcionais:
 - ter dois programas em C: um para os cadastros de município, zonas, seções, eleitores e eleição; e um outro para realizar votação e mostrar resultado.
 
 #### Primeira Parte:
-Ao iniciar o programa do cadastro, irá aparecer um janela com as referidas opções:
+Ao iniciar o programa do cadastro, irá aparecer uma janela com as referidas opções:
+<img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img01.png">
