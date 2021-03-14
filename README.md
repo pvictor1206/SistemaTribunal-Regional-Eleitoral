@@ -32,7 +32,9 @@ Requisitos não-funcionais:
 4 - Informe as informações pedida pelo sistema:
 <img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img04.png">
 
-#### Basta fazer esses passos tem todas as opções:
+#### Basta fazer esses passos tem todas as opções.
 
 ### Segunda Parte:
-Na próxima etapa do sistema TRE, 
+Na próxima etapa do sistema TRE, os arquivos gerados no sistema de cadastro terão que ser utilizados. Nessa etapa serão realizadas as votações e os resultados da votação.
+<img src="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/imagens/img13.png">
+
