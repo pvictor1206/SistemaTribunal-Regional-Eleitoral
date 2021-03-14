@@ -28,14 +28,13 @@ Os arquivos para o cadastro segue-se abaixo:
 3. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/eleicao_cadastro.c">eleicao_cadastro.c</a>
 4. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/eleitores_cadastro.c">eleitores_cadastro.c</a>
 5. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/geral.c">geral.c</a>
-6. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/geral.c">geral.c</a>
-7. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/municipio_alterar.c">municipio_alterar.c</a>
-8. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/municipio_cadastro.c">municipio_cadastro.c</a>
-9. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/partidos_cadastro.c">partidos_cadastro.c</a>
-10. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/secao_alterar.c">secao_alterar.c</a>
-11. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/secao_cadastro.c">secao_cadastro.c</a>
-12. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/zona_alterar.c">zona_alterar.c</a>
-13. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/zona_cadastro.c">zona_cadastro.c</a>
+6. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/municipio_alterar.c">municipio_alterar.c</a>
+7. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/municipio_cadastro.c">municipio_cadastro.c</a>
+8. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/partidos_cadastro.c">partidos_cadastro.c</a>
+9. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/secao_alterar.c">secao_alterar.c</a>
+10. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/secao_cadastro.c">secao_cadastro.c</a>
+11. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/zona_alterar.c">zona_alterar.c</a>
+12. <a href="https://github.com/pvictor1206/SistemaTribunal-Regional-Eleitoral/blob/main/Cadatro_codigo/zona_cadastro.c">zona_cadastro.c</a>
 
 ### Primeira Parte:
 1 - Ao iniciar o programa do cadastro, irá aparecer uma janela com as seguintes opções:
